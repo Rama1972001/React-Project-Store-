@@ -2,6 +2,33 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This code is an implementation of a React application that utilizes a routing library called react-router-dom. It includes several pages such as the Category page, Product page, Login page, and Info page. The application also uses the Bootstrap framework for styling and the Fetch API for making API calls.
+
+
+## Video: 
+
+
+
+https://user-images.githubusercontent.com/110572038/213705406-3567c07d-4147-458e-9d7b-cf78320ba5b6.mp4
+
+
+
+## Screenshots:
+![image](https://user-images.githubusercontent.com/110572038/213704774-28662dba-1fff-4550-98e2-4caba6301d95.png)
+![image](https://user-images.githubusercontent.com/110572038/213704847-0f713cf6-0ac6-4efe-98d1-015fc2934b0a.png)
+![image](https://user-images.githubusercontent.com/110572038/213704921-76633895-4f5d-42f8-af7c-3ee3fbe23a8d.png)
+![image](https://user-images.githubusercontent.com/110572038/213705163-8ac7fb24-4299-4881-880c-9be605a33a06.png)
+![image](https://user-images.githubusercontent.com/110572038/213705264-5f5a6df1-7bf2-44e4-8405-4466e9c4d0f6.png)
+![image](https://user-images.githubusercontent.com/110572038/213705330-9b15e06c-0ff2-4341-839f-b2f79458e007.png)
+
+
+
+## Built With
+* React - JavaScript library for building user interfaces
+* react-router-dom - Routing library for React
+* Bootstrap - CSS framework
+* Fetch API - API for making network requests
+
 ## Available Scripts
 
 In the project directory, you can run:
